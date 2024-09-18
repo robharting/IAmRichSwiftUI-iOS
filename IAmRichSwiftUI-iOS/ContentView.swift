@@ -13,7 +13,7 @@ struct ContentView: View {
             Color(.systemTeal)
                 .edgesIgnoringSafeArea(/*@START_MENU_TOKEN@*/.all/*@END_MENU_TOKEN@*/)
             VStack {
-                Text("I Am Rich")
+                Text("I Am Rich via SwiftUI")
                     .font(.system(size: 40))
                     .fontWeight(.bold)
                     .foregroundColor(Color.white)
